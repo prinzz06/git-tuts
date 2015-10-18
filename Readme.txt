@@ -36,3 +36,6 @@ gets the difference of staged and previous commit
 
 unstage
 git reset HEAD filename
+
+git checkout -- Filename
+this will check out the previous commit
