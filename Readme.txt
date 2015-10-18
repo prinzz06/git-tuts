@@ -58,4 +58,14 @@ git reset --hard HEAD^ undo last commit and all changes
 git reset --hard HEAD^^ undo last 2 commits and all changes
 
 Added Github repo
+git remote add origin https://github.com/prinzz06/git-tuts.git
+
+git remote -v
+
+git push -u origin master
+will ask for username and password
+
+Password Caching
+https://help.github.com/articles/set-up-git
+
 https://github.com/prinzz06/git-tuts.git
