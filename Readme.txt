@@ -50,5 +50,5 @@ forgot to add file to commit?
 you can add it to your previous commit and ammend it
 First Stage it
 git add filename
-git commit --ammend -m "Adding more file to last commit"
+git commit --amend -m "Adding more file to last commit"
 
