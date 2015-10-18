@@ -52,3 +52,5 @@ First Stage it
 git add filename
 git commit --amend -m "Adding more file to last commit"
 
+git reset --hard HEAD^ undo last commit and all changes
+git reset --hard HEAD^^ undo last 2 commits and all changes
