@@ -17,9 +17,9 @@ git add "filename"
 git commit -m "Comment on the commited file"
 
 other commands for adding
-git add list of files
-git add --all
-git add *.txt
-git add docs/*.txt
-git add docs/
-git add "*.txt"
+git add list of files  //add the list of files
+git add --all		// add all files
+git add *.txt		// add all txt files in current directory
+git add docs/*.txt 	// add all txt files in docs directory
+git add docs/		// add all files in docs directory
+git add "*.txt"		//add all txt files in the whole project
