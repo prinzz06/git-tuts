@@ -1,4 +1,6 @@
 Please read this!!
+GIt hub REPO
+https://github.com/prinzz06/git-tuts.git
 
 Git Config Initial setup
 git config --global user.name "Prince Escueta"
@@ -54,3 +56,6 @@ git commit --amend -m "Adding more file to last commit"
 
 git reset --hard HEAD^ undo last commit and all changes
 git reset --hard HEAD^^ undo last 2 commits and all changes
+
+Added Github repo
+https://github.com/prinzz06/git-tuts.git
