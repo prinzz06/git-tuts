@@ -39,3 +39,16 @@ git reset HEAD filename
 
 git checkout -- Filename
 this will check out the previous commit
+
+git commit -a -m "Shortcut in commiting" 
+This will add it to stage and commit it with comment
+untracked files(New Files) will not be included in the commit
+ 
+git reset --soft HEAD^ undo last commit and put it back to staging
+
+forgot to add file to commit?
+you can add it to your previous commit and ammend it
+First Stage it
+git add filename
+git commit --ammend -m "Adding more file to last commit"
+
