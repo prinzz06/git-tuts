@@ -34,4 +34,5 @@ Green is the newly added line
 git diff --staged
 gets the difference of staged and previous commit
 
-git RESET HEAD
+unstage
+git reset HEAD filename
