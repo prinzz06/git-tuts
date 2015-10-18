@@ -68,4 +68,24 @@ will ask for username and password
 Password Caching
 https://help.github.com/articles/set-up-git
 
+git pull
+pulls it from github
+
+multiple remotes
+add remote
+git remote add <name> <address>
+
+remove remote
+git remote rm <name>
+
+push remote
+git push -u <name> <branch>
+-u remembers the name and the branch
+so next time you can just run git push
+
+HEROKU another platform where you can create an account and use git
+Check last part of level 2
+
+
+
 https://github.com/prinzz06/git-tuts.git
