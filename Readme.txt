@@ -12,3 +12,6 @@ Commit Changes
 Modify 
 Add to staging area
 Commit changes
+
+git add "filename"
+git commit -m "Comment on the commited file"
