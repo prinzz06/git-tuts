@@ -13,6 +13,9 @@ Modify
 Add to staging area
 Commit changes
 
+Testing git dif in the middle
+
+
 git add "filename"
 git commit -m "Comment on the commited file"
 
@@ -23,3 +26,7 @@ git add *.txt		// add all txt files in current directory
 git add docs/*.txt 	// add all txt files in docs directory
 git add docs/		// add all files in docs directory
 git add "*.txt"		//add all txt files in the whole project
+
+git diff
+lets you see what was added in the file if it has been modified
+Green is the newly added line
