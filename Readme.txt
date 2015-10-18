@@ -30,3 +30,8 @@ git add "*.txt"		//add all txt files in the whole project
 git diff
 lets you see what was added in the file if it has been modified
 Green is the newly added line
+
+git diff --staged
+gets the difference of staged and previous commit
+
+git RESET HEAD
