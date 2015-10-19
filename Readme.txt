@@ -87,5 +87,25 @@ HEROKU another platform where you can create an account and use git
 Check last part of level 2
 
 
+git clone <url> <name>
+or you can ommit the name and it will default to the name
+
+create a branch for a new feature 
+git branch <name>
+
+to move to a branch or timeline
+git checkout <name>
+
+to merge 2 branch or timelines
+got to the master time line
+git merge <branch name>
+
+to delete a branch 
+git branch -d <branch name>
+
+shortcut for adding and checkingout branch
+git checkout -b <branch name>
+
+
 
 https://github.com/prinzz06/git-tuts.git
