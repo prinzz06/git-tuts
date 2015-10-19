@@ -106,6 +106,8 @@ git branch -d <branch name>
 shortcut for adding and checkingout branch
 git checkout -b <branch name>
 
+conflict
+
 JUST FINISHED GIT BRANCHES
 DOING PUSH AND PULL TO GITHUB
 
