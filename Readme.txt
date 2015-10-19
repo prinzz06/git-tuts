@@ -106,6 +106,6 @@ git branch -d <branch name>
 shortcut for adding and checkingout branch
 git checkout -b <branch name>
 
-
+no conflict
 
 https://github.com/prinzz06/git-tuts.git
