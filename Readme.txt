@@ -111,4 +111,6 @@ conflict
 JUST FINISHED GIT BRANCHES
 DOING PUSH AND PULL TO GITHUB
 
+Problem in merged when deleted file after merging crashed
+
 https://github.com/prinzz06/git-tuts.git
