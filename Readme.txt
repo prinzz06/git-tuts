@@ -106,6 +106,7 @@ git branch -d <branch name>
 shortcut for adding and checkingout branch
 git checkout -b <branch name>
 
-
+JUST FINISHED GIT BRANCHES
+DOING PUSH AND PULL TO GITHUB
 
 https://github.com/prinzz06/git-tuts.git
