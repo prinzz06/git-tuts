@@ -7,11 +7,11 @@ git config --global user.name "Prince Escueta"
 git config --global user.email prinzz06@gmail.com
 
 
-Add file 
+Add file
 Add to stage
-Commit Changes
+Commit Changesasdfas
 
-Modify 
+Modify
 Add to staging area
 Commit changes
 
@@ -42,10 +42,10 @@ git reset HEAD filename
 git checkout -- Filename
 this will check out the previous commit
 
-git commit -a -m "Shortcut in commiting" 
+git commit -a -m "Shortcut in commiting"
 This will add it to stage and commit it with comment
 untracked files(New Files) will not be included in the commit
- 
+
 git reset --soft HEAD^ undo last commit and put it back to staging
 
 forgot to add file to commit?
@@ -90,7 +90,7 @@ Check last part of level 2
 git clone <url> <name>
 or you can ommit the name and it will default to the name
 
-create a branch for a new feature 
+create a branch for a new feature
 git branch <name>
 
 to move to a branch or timeline
@@ -100,7 +100,7 @@ to merge 2 branch or timelines
 got to the master time line
 git merge <branch name>
 
-to delete a branch 
+to delete a branch
 git branch -d <branch name>
 
 shortcut for adding and checkingout branch
